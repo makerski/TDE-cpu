@@ -1,5 +1,5 @@
 ## 🚀 JAVA BACKEND DEVELOPER
-**Spring Boot • REST APIs • Clean Code • PostgreSQL**
+Spring Boot • REST APIs • PostgreSQL • MySQL • MongoDB
 
 Backend Java Developer skupiony na tworzeniu skalowalnych i wydajnych aplikacji.
 Stawiam na czystą architekturę, testowalny kod i rozwiązania gotowe do produkcji.
@@ -8,11 +8,11 @@ Stawiam na czystą architekturę, testowalny kod i rozwiązania gotowe do produk
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![H2](https://img.shields.io/badge/H2-1F305F?style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ---
 
@@ -24,7 +24,7 @@ Stawiam na czystą architekturę, testowalny kod i rozwiązania gotowe do produk
 ## 🧠 What I Do
 - 🔹 Projektuję REST API w Spring Boot
 - 🔹 Implementuję JWT / Spring Security
-- 🔹 Pracuję z bazami danych (PostgreSQL, JPA/Hibernate)
+- 🔹 Pracuję z bazami danych (PostgreSQL, MySQL, MongoDB, H2, SQLite)
 - 🔹 Stosuję Clean Code, SOLID i dobre praktyki
 - 🔹 Konteneryzuję aplikacje (Docker)
 - 🔹 Tworzę backend gotowy pod production
