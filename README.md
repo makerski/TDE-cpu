@@ -16,6 +16,19 @@ Stawiam na czystą architekturę, testowalny kod i rozwiązania gotowe do produk
 
 ---
 
+## 📈 GitHub Activity & Stats
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=TDE-cpu&theme=tokyonight&hide_border=true)
+
+### 📊 Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TDE-cpu&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TDE-cpu&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 🧠 What I Do
 - 🔹 Projektuję REST API w Spring Boot
 - 🔹 Implementuję JWT / Spring Security
@@ -23,12 +36,6 @@ Stawiam na czystą architekturę, testowalny kod i rozwiązania gotowe do produk
 - 🔹 Stosuję Clean Code, SOLID i dobre praktyki
 - 🔹 Konteneryzuję aplikacje (Docker)
 - 🔹 Tworzę backend gotowy pod production
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TDE-cpu&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TDE-cpu&layout=compact&theme=tokyonight)
 
 ---
 
@@ -44,4 +51,4 @@ Stawiam na czystą architekturę, testowalny kod i rozwiązania gotowe do produk
 
 ---
 
-> Code is like humor. When you have to explain it, it’s bad.
+> “First make it work. Then make it right. Then make it fast.”
