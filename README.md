@@ -16,14 +16,8 @@ Stawiam na czystą architekturę, testowalny kod i rozwiązania gotowe do produk
 
 ---
 
-## 📈 GitHub Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&theme=tokyo-night)
-
-## 🔥 Contribution Streak
-![Streak](https://streak-stats.demolab.com?user=TDE-cpu&theme=dark)
-
-## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TDE-cpu&show_icons=true&theme=dark)
+## ☕ Java Activity
+![Java Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&theme=tokyo-night&hide_border=true)
 
 ---
 
