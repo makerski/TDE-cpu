@@ -16,16 +16,14 @@ Stawiam na czystą architekturę, testowalny kod i rozwiązania gotowe do produk
 
 ---
 
-## 📈 GitHub Activity & Stats
+## 📈 GitHub Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&theme=tokyo-night)
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=TDE-cpu&theme=tokyonight&hide_border=true)
+## 🔥 Contribution Streak
+![Streak](https://streak-stats.demolab.com?user=TDE-cpu&theme=dark)
 
-### 📊 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TDE-cpu&show_icons=true&theme=tokyonight&hide_border=true)
-
-### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TDE-cpu&layout=compact&theme=tokyonight&hide_border=true)
+## 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TDE-cpu&show_icons=true&theme=dark)
 
 ---
 
