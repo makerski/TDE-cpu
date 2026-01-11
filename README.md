@@ -1,13 +1,17 @@
-## 🚀 JAVA BACKEND DEVELOPER
+## 🚀 FULL STACK DEVELOPER (JAVA BACKEND FOCUSED)
 
 **Spring Boot • REST APIs • PostgreSQL • MySQL • MongoDB**
 
-Backend Java Developer skoncentrowany na tworzeniu **skalowalnych, wydajnych i bezpiecznych aplikacji serwerowych**.
+Full Stack Developer skoncentrowany na tworzeniu **skalowalnych, wydajnych i bezpiecznych aplikacji webowych** — od warstwy backendowej po interfejs użytkownika.
+
+Specjalizuję się w **Java Backend (Spring Boot)**, ale swobodnie poruszam się również po **Frontendzie**, dbając o spójność, wydajność i jakość całego systemu.
 Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **gotowe do wdrożeń produkcyjnych**.
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Backend
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
@@ -20,6 +24,16 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
+### Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+</p>
+
 ---
 
 ## ☕ Java Activity
@@ -30,12 +44,21 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 
 ## 🧠 What I Do
 
+### Backend
+
 * 🔹 Projektuję i implementuję **REST API** w oparciu o **Spring Boot**
 * 🔹 Tworzę systemy autoryzacji i uwierzytelniania (**JWT, Spring Security**)
 * 🔹 Pracuję z relacyjnymi i nierelacyjnymi bazami danych
 * 🔹 Stosuję **Clean Code**, **SOLID**, wzorce projektowe
 * 🔹 Konteneryzuję aplikacje przy użyciu **Docker**
 * 🔹 Przygotowuję backendy gotowe do środowisk **production**
+
+### Frontend
+
+* 🔹 Tworzę nowoczesne interfejsy użytkownika w **React / Next.js**
+* 🔹 Integruję frontend z REST API
+* 🔹 Dbam o responsywność i UX
+* 🔹 Stosuję **TypeScript** dla bezpieczeństwa typów
 
 ---
 
