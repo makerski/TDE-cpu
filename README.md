@@ -49,3 +49,15 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 * 🚀 Dbam o **wydajność, skalowalność i bezpieczeństwo** rozwiązań społecznościowych
 
 ---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:p41961378@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> *First make it work. Then make it right. Then make it fast.*
