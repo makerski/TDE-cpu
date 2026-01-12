@@ -45,9 +45,7 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 
 ### Systemy komunikacji i mikroserwisy
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=nats&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -103,8 +101,6 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 
 ---
 
-## ☕ Java Activity ![Java Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&theme=tokyo-night&hide_border=true)
-
 ### Additional Experience
 
 <p align="left">
@@ -114,15 +110,6 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
   <img src="https://img.shields.io/badge/PaperMC-FFFFFF?style=for-the-badge&logo=papermc&logoColor=black" />
   <img src="https://img.shields.io/badge/Velocity-2F7EEA?style=for-the-badge" />
 </p>
-
-* 🤖 Projektuję i rozwijam **boty Discord** (moderacja, systemy ticketów, logi, integracje REST API)
-* 🔐 Implementuję **systemy ról, permisji i automatyzacji** dla serwerów Discord
-* ⛏️ Tworzę **pluginy Minecraft** (**Spigot / Paper / Velocity**)
-* ⚙️ Implementuję **customowe mechaniki**, komendy, eventy i systemy uprawnień
-* 📊 Integruję pluginy i boty z **bazami danych** oraz panelami webowymi
-* 🚀 Dbam o **wydajność, skalowalność i bezpieczeństwo** rozwiązań społecznościowych
-
----
 
 ## 📫 Contact
 
