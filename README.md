@@ -30,7 +30,6 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 ### Minecraft
 ![Spigot](https://img.shields.io/badge/Spigot-ED8B00?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Paper](https://img.shields.io/badge/Paper-009688?style=for-the-badge&logo=minecraft&logoColor=white)
-![Purpur](https://img.shields.io/badge/Purpur-0390fc?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Velocity](https://img.shields.io/badge/Velocity-1DA1F2?style=for-the-badge&logo=minecraft&logoColor=white)
 
 ### Bazy danych
