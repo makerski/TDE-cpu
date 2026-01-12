@@ -51,7 +51,7 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 </div>
 
 <h3 align="center">
-  <samp>&gt; Cześć, jestem Piotr znany jako obszernie .commons
+  <samp>&gt; Witam, mam na imię Piotr, szerszej widowni znany jestem jako .commons
     <b><a target="_blank" href="https://www.youtube.com/@TDE-cpu">TDE-cpu</a></b>
   </samp>
 </h3>
