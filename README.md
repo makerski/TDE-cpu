@@ -24,10 +24,8 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Additional Experience
-<p align="left">
   <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Minecraft_Plugins-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
-</p>
 
 ### Minecraft
 ![Spigot](https://img.shields.io/badge/Spigot-ED8B00?style=for-the-badge&logo=minecraft&logoColor=white)
