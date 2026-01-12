@@ -47,7 +47,7 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 ## 📊 Aktywność
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=500&lines=TDE-cpu;Developer+Pluginów+Minecraft;???;Java+%26+Spigot+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=500&lines=commons;Developer+Pluginów+Minecraft;???;Java+%26+Spigot+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
@@ -66,7 +66,7 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
   </samp>
 </p>
 
-## ☕ Java Activity ![Java Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&theme=tokyo-night&hide_border=true)
+## ☕ Activity ![Java Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&theme=tokyo-night&hide_border=true)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00ccff&height=120&section=footer" width="100%" alt="Wave Footer" />
