@@ -50,7 +50,7 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 ## 📊 Aktywność
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=500&lines=commons;Developer+Pluginów+Minecraft;???;Java+%26+Spigot+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=500&lines=makerski;Developer+Pluginów+Minecraft;???;Java+%26+Spigot" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
