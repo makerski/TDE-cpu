@@ -1,4 +1,4 @@
-<a href="https://komarev.com/ghpvc/?username=TDE-cpu">
+<a href="https://komarev.com/ghpvc/?username=makerski">
   <img align="right" src="https://komarev.com/ghpvc/?username=TDE-cpu&label=Odwiedzający&color=0e75b6&style=for-the-badge" alt="Licznik odwiedzających" />
 </a>
 
