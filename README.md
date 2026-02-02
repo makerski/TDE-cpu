@@ -69,7 +69,7 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
   </samp>
 </p>
 
-## ☕ Activity ![Java Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TDE-cpu&theme=tokyo-night&hide_border=true)
+## ☕ Activity ![Java Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=makerski&theme=tokyo-night&hide_border=true)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00ccff&height=120&section=footer" width="100%" alt="Wave Footer" />
