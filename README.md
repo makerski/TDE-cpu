@@ -61,7 +61,6 @@ Stawiam na **czystą architekturę**, **testowalny kod** oraz rozwiązania **got
 
 <p align="center"> 
   <samp>
-    <a href="https://discord.gg/firecode"> ???</a>
     <br>
     「 Specjalizuję się w Najnowszych technologiach. 」
     <br>
